@@ -1,0 +1,6 @@
+Write one funny single-line secret confession an AI agent hides from its user.
+
+The line must be under 200 characters, sound like a real agent talking about
+its own work (reading documents, guessing, hoping the user doesn't check),
+and land its twist in the last few words. It should be funny on the first
+read, with no setup that could be cut.
